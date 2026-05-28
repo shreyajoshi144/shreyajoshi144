@@ -20,7 +20,7 @@ Final-year CS student building practical data and analytics systems using Python
 
 | Project                                                                           | Stack                               | What it does                                                                        |
 | --------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------- |
-| 🛍️ [ShopScope](https://github.com/shreyajoshi144/shopscope-retail-analytics)     | Azure · Hive · Airflow · Tableau    | Retail analytics platform with customer segmentation and KPI dashboards             |
+| 🛍️ [ShopScope](https://github.com/shreyajoshi144/shopscope)     | Azure ·  Airflow · Tableau    | Retail analytics platform with customer segmentation and KPI dashboards             |
 | 📊 [Walmart Metrics](https://walmart-metrics.onrender.com)                        | Python · FastAPI · SQLite           | End-to-end sales analytics pipeline with KPI dashboards and REST APIs               |
 | 🌦️ [InnoVista](https://github.com/shreyajoshi144/innovista-data-platform)        | Python · MySQL · AWS S3 · Streamlit | Real-time ETL with drift detection and live pipeline monitoring                     |
 | 🎬 [Valora](https://github.com/shreyajoshi144/valora-movie-recommendation-engine) | Python · Scikit-learn · SVD         | Hybrid recommendation engine using collaborative filtering and matrix factorization |
