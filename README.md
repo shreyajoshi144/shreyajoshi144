@@ -42,4 +42,4 @@ Final-year CS student building practical data and analytics systems using Python
 ---
 
 📫 **Connect:**
-[LinkedIn](https://linkedin.com/in/shreya-joshi-3a79172aa/) · [shreyaajoshi88@gmail.com](mailto:shreyaajoshi88@gmail.com)
+[LinkedIn](https://linkedin.com/in/shreya-joshi144/) · [shreyaajoshi88@gmail.com](mailto:shreyaajoshi88@gmail.com)
