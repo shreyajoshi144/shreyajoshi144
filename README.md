@@ -51,4 +51,4 @@ skills = {
 - Distributed data systems
 - Advanced analytics & ML pipelines
 
-📫 shreyaajoshi88@gmail.com · [LinkedIn](https://linkedin.com/in/shreya-joshi-3a79172aa/)
+📫 shreyaajoshi88@gmail.com · [LinkedIn](https://linkedin.com/in/shreya-joshi144/)
