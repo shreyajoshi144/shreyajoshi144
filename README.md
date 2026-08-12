@@ -78,9 +78,6 @@ A sentiment-analysis platform for patient reviews, surfacing trends through inte
 
 ## Experience
 
-**Python Developer Intern** — GrowthLoom · Jan 2026 – Apr 2026
-Built backend REST APIs (Python, FastAPI) to expose business KPIs and automate data ingestion workflows. Designed and optimized MySQL schemas and wrote complex analytical queries supporting business reporting.
-
 **AWS Academy Cloud Trainee** — AWS Academy × Medicaps University · Jun 2025 – Jul 2025
 Completed hands-on training covering EC2, S3, RDS, IAM, and VPC. Earned AWS Academy Cloud Foundations and Cloud Architecting badges. [Credly](https://www.credly.com/users/shreya-joshi144/edit/badges/credly)
 
