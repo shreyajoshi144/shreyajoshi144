@@ -9,13 +9,11 @@ Final-year Computer Science student building data pipelines, AI applications, an
 **[LinkedIn](https://www.linkedin.com/in/shreya-joshi144) · [GitHub](https://github.com/shreyajoshi144) · [Email](mailto:shreyaajoshi88@gmail.com)**
 
 </div>
-
 <br>
 
 ## About
 
 I'm a final-year B.Tech Computer Science and Engineering student at Medicaps University, graduating in 2026.
-
 My work sits across **data engineering, applied AI, and machine learning**. I enjoy building systems where data has to move reliably, models need to be evaluated rather than just trained, and AI outputs need context or guardrails before they are trusted.
 
 That has led me to work on:
@@ -27,7 +25,6 @@ That has led me to work on:
 * NLP applications for sentiment and meeting intelligence
 
 I am particularly interested in the engineering problems between **data, machine learning, and AI systems**—where retrieval quality, data reliability, model evaluation, validation, and system design directly affect the usefulness of the final product.
-
 Currently seeking **Data Engineer, AI Engineer, Applied AI, and Machine Learning Engineer opportunities for 2026**.
 
 <br>
